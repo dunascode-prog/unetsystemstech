@@ -25,7 +25,7 @@ export default function Footer() {
     <footer className="bg-panel">
       <div className="mx-auto grid max-w-[1160px] gap-10 px-5 py-16 md:grid-cols-[1.4fr_1fr_1.3fr_1fr] md:py-24">
         <div>
-          <Logo className="text-[26px]" />
+          <Logo height={28} />
           <p className="mt-4 max-w-[260px] text-[15px] leading-[1.45] text-dim">
             Enterprise technology solutions for modern business transformation.
           </p>

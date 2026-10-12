@@ -1,0 +1,7 @@
+:root {
+  --unet-ink: #0D0D0F;
+  --unet-cyan: #21D2ED;          /* accent on dark backgrounds */
+  --unet-cyan-on-light: #0B9CB5; /* accent on light backgrounds */
+  --unet-bg-light: #F6F7F9;
+  --unet-bg-dark: #0D0D0F;
+}
