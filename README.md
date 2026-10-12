@@ -32,6 +32,7 @@ src/
     ui/               Button, Logo, SectionHeading, Reveal, Marquee, LightBars
   lib/content.ts      nav links and the client logo list
 public/images/clients/  client logos
+public/unet-brand/      Unet logo, favicons, OG image and brand rules (see BRAND.md); favicons and OG image are copied into src/app/
 ```
 
 ### Page sections (in order)

@@ -40,7 +40,7 @@ export default function Approach() {
         </div>
         <div className="rounded-xl border border-line bg-panel-2 p-6 sm:p-8">
           <h3 className="flex items-center gap-2 text-[28px] font-medium tracking-[-0.02em]">
-            <LogoMark className="size-6" />
+            <LogoMark />
             Our pillars
           </h3>
           <ul className="mt-6 space-y-5">
